@@ -1,0 +1,4 @@
+#Mon Oct 24 13:16:23 MSK 2022
+base.0=D\:\\Projects\\Cars\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
